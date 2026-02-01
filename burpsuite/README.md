@@ -1,7 +1,9 @@
 # Burp Suite Lab Documentation
 
 **Name:** Masumi Jain
+
 **Lab Topic:** HTTP Traffic Interception and Parameter Manipulation using Burp Suite
+
 **Date:** 01/02/2026
 
 ---
